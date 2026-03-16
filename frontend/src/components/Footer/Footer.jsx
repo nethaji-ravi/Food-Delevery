@@ -10,9 +10,9 @@ const Footer = () => {
                 <img src={assets.logo} alt="" />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <div className="footer-social-icons">
-                    <a href="https://www.instagram.com/navin_netha_156/" target="_blank" rel="noopener noreferrer"></a><img src={assets.facebook_icon} alt="" /></div>a>
+                    <a href="https://www.instagram.com/navin_netha_156/" target="_blank" rel="noopener noreferrer"><img src={assets.facebook_icon} alt="" /></a>
                     <img src={assets.instagram_icon} alt="" />
-                    <a href="https://twitter.com/156navin" target="_blank" rel="noopener noreferrer"></a><img src={assets.twitter_icon} alt="" /></a>
+                    <a href="https://twitter.com/156navin" target="_blank" rel="noopener noreferrer"><img src={assets.twitter_icon} alt="" /></a>
                     <img src={assets.whatsapp_icon} alt="" />
                     <a href="https://www.linkedin.com/in/nethaji-ravi/" target="_blank" rel="noopener noreferrer"><img src={assets.linkedin_icon} alt="" /></a>
                 </div>
