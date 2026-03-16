@@ -5,6 +5,7 @@ A full-stack Food Delivery web application built with the **MERN Stack** (MongoD
 ## 🌐 Live Demo
 
 - **Frontend:** [food-delevery.vercel.app](https://food-delevery-wine.vercel.app/)
+- **Latest deployment on branch—updates automatically versal URL**[food-delevery.latest.vercel.app](https://food-delevery-git-main-nethaji-ravis-projects.vercel.app/)
 - **Backend API:** [food-delevery-6z6f.onrender.com](https://food-delevery-6z6f.onrender.com)
 
 ---
