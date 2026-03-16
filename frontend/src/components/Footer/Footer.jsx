@@ -30,7 +30,7 @@ const Footer = () => {
                 <h2>Get in touch</h2>
                 <ul>
                     <li>+91 1234567890</li>
-                    <li>nethaji156@gmail.com</li>
+                    <li><a href="mailto:nethaji156@gmail.com">nethaji156@gmail.com</a></li>
                 </ul>
             </div>
         </div>
